@@ -1,0 +1,14 @@
+# Excluir arquivos e pastas de build
+[Bb]in/
+[Oo]bj/
+
+# Excluir pasta do Visual Studio
+.vs/
+
+# Excluir outros arquivos temporários e de configuração
+*.user
+*.suo
+*.vscode/
+*.DS_Store
+*.pdb
+*.cache

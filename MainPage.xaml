@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FIPE.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="fipe.png"
+                HeightRequest="100"
+                Aspect="AspectFit"
+                SemanticProperties.HeadingLevel="Level1" />
+            
+            <Picker x:Name="pickerTipos"
+                Title="Selecione o Tipo"
+                HorizontalOptions="Fill"
+                FontSize="16"
+                BackgroundColor="SteelBlue"
+                TextColor="AliceBlue"
+                SelectedIndexChanged="SelTipo">
+            </Picker>
+
+            <Picker x:Name="pickerFabricantes"
+                Title="Selecione o Fabricante"
+                HorizontalOptions="Fill"
+                FontSize="16"
+                BackgroundColor="SteelBlue"
+                TextColor="AliceBlue"
+                SelectedIndexChanged="SelFabricante">
+            </Picker>
+
+            <Picker x:Name="pickerModelos"
+                Title="Selecione o Modelo"
+                HorizontalOptions="Fill"
+                FontSize="16"
+                BackgroundColor="SteelBlue"
+                TextColor="AliceBlue"
+                SelectedIndexChanged="SelModelo">
+            </Picker>
+            
+            <Picker x:Name="pickerAno"
+                Title="Selecione o Ano"
+                HorizontalOptions="Fill"
+                FontSize="16"
+                BackgroundColor="SteelBlue"
+                TextColor="AliceBlue"
+                SelectedIndexChanged="SelAno">
+            </Picker>            
+            
+            <Button
+                x:Name="CounterBtn"
+                Text="Pesquisar Preço R$" 
+                BackgroundColor="Green"
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnPesquisar"
+                HorizontalOptions="Fill" />
+            <Label
+                x:Name="lblPreco"
+                BackgroundColor="OrangeRed"
+                HorizontalOptions="Fill"
+                HorizontalTextAlignment="Center"/>
+            <Label
+                x:Name="lblModelo"
+                BackgroundColor="YellowGreen"
+                HorizontalOptions="Fill"
+                HorizontalTextAlignment="Center"/>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
