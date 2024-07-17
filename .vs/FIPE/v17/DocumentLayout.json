@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|c:\\users\\zaccaro\\source\\repos\\fipe\\repository\\pesquisaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|solutionrelative:repository\\pesquisaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|c:\\users\\zaccaro\\source\\repos\\fipe\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|c:\\users\\zaccaro\\source\\repos\\fipe\\repository\\pesquisaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29561BDE-40C8-48D7-9A09-33BC33C661D1}|FIPE.csproj|solutionrelative:repository\\pesquisaprecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Zaccaro\\source\\repos\\FIPE\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PesquisaPrecoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Zaccaro\\source\\repos\\FIPE\\Repository\\PesquisaPrecoRepository.cs",
               "RelativeDocumentMoniker": "Repository\\PesquisaPrecoRepository.cs",
               "ToolTip": "C:\\Users\\Zaccaro\\source\\repos\\FIPE\\Repository\\PesquisaPrecoRepository.cs",
               "RelativeToolTip": "Repository\\PesquisaPrecoRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBQAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T18:13:59.748Z"
             },
@@ -76,22 +76,23 @@
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\Zaccaro\\source\\repos\\FIPE\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAswHQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T17:46:02.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Zaccaro\\source\\repos\\FIPE\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\Zaccaro\\source\\repos\\FIPE\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-04T17:36:39.905Z"
+              "WhenOpened": "2024-06-04T17:36:39.905Z",
+              "EditorCaption": ""
             }
           ]
         }

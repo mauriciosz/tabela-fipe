@@ -1,2 +1,2 @@
-AdbTarget=
+AdbTarget=-s RX8M90814NW
 AdbOptions=

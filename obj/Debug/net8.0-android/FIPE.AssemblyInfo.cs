@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FIPE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6e6a055ec6a97710d6a64d3e8be3d2172a15b2f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FIPE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FIPE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

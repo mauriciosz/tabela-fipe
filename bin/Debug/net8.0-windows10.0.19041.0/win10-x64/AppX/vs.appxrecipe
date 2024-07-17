@@ -30,269 +30,269 @@
     <AppXManifest Include="C:\Users\Zaccaro\source\repos\FIPE\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-07T18:55:22.177</Modified>
+      <Modified>2024-06-08T18:57:47.457</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-06T23:50:58.495</Modified>
+      <Modified>2024-06-08T18:57:46.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FIPE.runtimeconfig.json">
       <PackagePath>FIPE.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-06T14:49:20.836</Modified>
+      <Modified>2024-06-08T18:57:43.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FIPE.dll">
       <PackagePath>FIPE.dll</PackagePath>
-      <Modified>2024-06-07T18:55:20.520</Modified>
+      <Modified>2024-06-08T18:57:38.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>FIPE.exe</PackagePath>
-      <Modified>2024-06-07T18:55:20.536</Modified>
+      <Modified>2024-06-08T18:57:38.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-06-04T17:25:00.540</Modified>
+      <Modified>2024-06-08T18:38:40.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:22.993</Modified>
+      <Modified>2024-06-08T18:54:26.858</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:23.037</Modified>
+      <Modified>2024-06-08T18:54:27.388</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:23.104</Modified>
+      <Modified>2024-06-08T18:54:27.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:23.201</Modified>
+      <Modified>2024-06-08T18:54:28.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:23.566</Modified>
+      <Modified>2024-06-08T18:54:30.211</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-06-04T17:24:59.975</Modified>
+      <Modified>2024-06-08T18:38:40.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-06-04T17:25:00.000</Modified>
+      <Modified>2024-06-08T18:38:40.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-06-04T17:31:25.578</Modified>
+      <Modified>2024-06-08T18:54:38.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:28.110</Modified>
+      <Modified>2024-06-08T18:54:42.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:28.266</Modified>
+      <Modified>2024-06-08T18:54:43.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:28.363</Modified>
+      <Modified>2024-06-08T18:54:43.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:28.462</Modified>
+      <Modified>2024-06-08T18:54:43.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:28.831</Modified>
+      <Modified>2024-06-08T18:54:43.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.307</Modified>
+      <Modified>2024-06-08T18:54:40.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.333</Modified>
+      <Modified>2024-06-08T18:54:40.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.443</Modified>
+      <Modified>2024-06-08T18:54:41.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.383</Modified>
+      <Modified>2024-06-08T18:54:41.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.403</Modified>
+      <Modified>2024-06-08T18:54:41.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.115</Modified>
+      <Modified>2024-06-08T18:54:39.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.140</Modified>
+      <Modified>2024-06-08T18:54:39.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.284</Modified>
+      <Modified>2024-06-08T18:54:40.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.193</Modified>
+      <Modified>2024-06-08T18:54:39.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.233</Modified>
+      <Modified>2024-06-08T18:54:39.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.627</Modified>
+      <Modified>2024-06-08T18:54:38.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.659</Modified>
+      <Modified>2024-06-08T18:54:38.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.678</Modified>
+      <Modified>2024-06-08T18:54:38.733</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.696</Modified>
+      <Modified>2024-06-08T18:54:38.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.906</Modified>
+      <Modified>2024-06-08T18:54:38.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.928</Modified>
+      <Modified>2024-06-08T18:54:39.002</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.954</Modified>
+      <Modified>2024-06-08T18:54:39.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.069</Modified>
+      <Modified>2024-06-08T18:54:39.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-06-04T17:31:25.977</Modified>
+      <Modified>2024-06-08T18:54:39.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.013</Modified>
+      <Modified>2024-06-08T18:54:39.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.833</Modified>
+      <Modified>2024-06-08T18:54:41.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.869</Modified>
+      <Modified>2024-06-08T18:54:41.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.915</Modified>
+      <Modified>2024-06-08T18:54:42.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.966</Modified>
+      <Modified>2024-06-08T18:54:42.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:27.071</Modified>
+      <Modified>2024-06-08T18:54:42.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.596</Modified>
+      <Modified>2024-06-08T18:54:41.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.626</Modified>
+      <Modified>2024-06-08T18:54:41.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.650</Modified>
+      <Modified>2024-06-08T18:54:41.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.678</Modified>
+      <Modified>2024-06-08T18:54:41.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.722</Modified>
+      <Modified>2024-06-08T18:54:41.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.465</Modified>
+      <Modified>2024-06-08T18:54:41.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.484</Modified>
+      <Modified>2024-06-08T18:54:41.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.503</Modified>
+      <Modified>2024-06-08T18:54:41.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.530</Modified>
+      <Modified>2024-06-08T18:54:41.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:26.569</Modified>
+      <Modified>2024-06-08T18:54:41.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:31:27.130</Modified>
+      <Modified>2024-06-08T18:54:42.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:31:27.271</Modified>
+      <Modified>2024-06-08T18:54:42.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:31:27.332</Modified>
+      <Modified>2024-06-08T18:54:42.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:31:27.560</Modified>
+      <Modified>2024-06-08T18:54:42.516</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:31:27.849</Modified>
+      <Modified>2024-06-08T18:54:42.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:43:37.694</Modified>
+      <Modified>2024-06-08T18:54:36.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-06-04T17:43:37.803</Modified>
+      <Modified>2024-06-08T18:54:36.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-06-04T17:43:38.028</Modified>
+      <Modified>2024-06-08T18:54:36.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-06-04T17:43:38.087</Modified>
+      <Modified>2024-06-08T18:54:36.797</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-06-04T17:43:38.345</Modified>
+      <Modified>2024-06-08T18:54:37.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fipe.scale-100.png">
       <PackagePath>fipe.scale-100.png</PackagePath>
-      <Modified>2024-06-04T17:42:04.253</Modified>
+      <Modified>2024-06-08T18:38:40.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\source\repos\FIPE\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\FIPE.deps.json">
       <PackagePath>FIPE.deps.json</PackagePath>
-      <Modified>2024-06-06T23:50:57.381</Modified>
+      <Modified>2024-06-08T18:57:43.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Zaccaro\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
